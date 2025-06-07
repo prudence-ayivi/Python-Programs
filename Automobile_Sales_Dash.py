@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[ ]:
-
+# Automobile Sales Statistics Dashboard
 
 import dash
 # import more_itertools
